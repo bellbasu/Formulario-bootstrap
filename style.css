@@ -1,0 +1,21 @@
+ .btn-personalizado {
+  background-color: #6f42c1;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+
+.btn-personalizado:hover {
+  background-color: #5a379e;
+}
+
+.form-control {
+  border: 2px solid #6f42c1;
+  border-radius: 8px;
+}
+
+.form-control:focus {
+  border-color: #5a379e;
+  box-shadow: 0 0 0 0.2rem rgba(111, 66, 193, 0.25);
+}
